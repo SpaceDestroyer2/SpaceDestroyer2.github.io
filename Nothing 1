@@ -8,7 +8,7 @@
     <!-- styles CSS -->
     <link rel="stylesheet" href="./css/style.css" />
     <!-- register CSS -->
-    <link rel="stylesheet" href="./css/register.css" />
+    <link rel="stylesheet" href=a"./css/register.css" />
     <!-- DAY NIGHT TOGGLE CSS -->
     <link href="./css/day-night.css" rel="stylesheet" />
   </head>
